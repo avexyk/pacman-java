@@ -1,2 +1,2 @@
 # pacman-java
-Juego sencillo de pacman programado en Java
+Juego de pacman programado en Java
